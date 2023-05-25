@@ -1,6 +1,11 @@
 # Hamburger Arrow React Native Component
 This is a React Native component called HamburgerArrow that implements a rotating hamburger menu icon. The icon transitions between an "arrow right" icon and a "menu" icon when pressed. It utilizes the React Native Animated API to animate the rotation of the icon.
 
+<p align="center">
+  <img src="https://imgur.com/RghVK2g.gif" style="margin-left: 40px;">
+</p>
+
+
 ## Installation
 To use this component in your React Native project, follow these steps:
 
